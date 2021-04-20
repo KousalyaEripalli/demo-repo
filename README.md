@@ -18,6 +18,7 @@ git checkout main         #back to main branch
 git fetch
 
 #Fetched content has to be explicitly checked out
+git merge
 git checkout
 
 #To see what commits have been added to the upstream master, you can run a git log using orign
